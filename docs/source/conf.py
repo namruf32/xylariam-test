@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'NIST SP 800-171'
-copyright = '2021, Graziella'
+copyright = '2022, Xylariam'
 author = 'xylariam'
 
 release = '0.1'
