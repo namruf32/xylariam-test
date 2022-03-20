@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'NIST SP 800-171'
 copyright = '2021, Graziella'
-author = 'Graziella'
+author = 'xylariam'
 
 release = '0.1'
 version = '0.1.0'
