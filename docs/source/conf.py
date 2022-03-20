@@ -4,7 +4,8 @@
 
 project = 'NIST SP 800-171'
 copyright = '2022, Xylariam'
-author = 'xylariam'
+author = 'Andrew'
+author = 'Jen'
 
 release = '0.1'
 version = '0.1.0'
